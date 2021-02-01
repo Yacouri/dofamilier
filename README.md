@@ -1,7 +1,7 @@
 # dofamilier
 <p align="center">
     <a href="https://dofamilier.netlify.app/" target="_blank">
-        <img src="../src/assets/minikrone.png" width="400">
+        <img src="./src/assets/minikrone.png" width="400">
     </a>
 </p>
 ## 📖 About dofamilier <br />
