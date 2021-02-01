@@ -4,7 +4,7 @@
         <img src="../src/assets/minikrone.png" width="400">
     </a>
 </p>
-### 📖 About dofamilier
+## 📖 About dofamilier <br />
 Dofamilier is a web application made to help Dofus players to calculate their pets level and give them more informations about it.
 
 ### 🔧 Project setup
