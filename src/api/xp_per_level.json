@@ -1,0 +1,502 @@
+[
+  {
+    "level": 1,
+    "xp": 1,
+    "xp_diff": 1
+  },
+  {
+    "level": 2,
+    "xp": 2,
+    "xp_diff": 1
+  },
+  {
+    "level": 3,
+    "xp": 3,
+    "xp_diff": 1
+  },
+  {
+    "level": 4,
+    "xp": 5,
+    "xp_diff": 2
+  },
+  {
+    "level": 5,
+    "xp": 7,
+    "xp_diff": 2
+  },
+  {
+    "level": 6,
+    "xp": 9,
+    "xp_diff": 2
+  },
+  {
+    "level": 7,
+    "xp": 11,
+    "xp_diff": 2
+  },
+  {
+    "level": 8,
+    "xp": 13,
+    "xp_diff": 2
+  },
+  {
+    "level": 9,
+    "xp": 15,
+    "xp_diff": 2
+  },
+  {
+    "level": 10,
+    "xp": 18,
+    "xp_diff": 3
+  },
+  {
+    "level": 11,
+    "xp": 21,
+    "xp_diff": 3
+  },
+  {
+    "level": 12,
+    "xp": 24,
+    "xp_diff": 3
+  },
+  {
+    "level": 13,
+    "xp": 28,
+    "xp_diff": 4
+  },
+  {
+    "level": 14,
+    "xp": 32,
+    "xp_diff": 4
+  },
+  {
+    "level": 15,
+    "xp": 37,
+    "xp_diff": 5
+  },
+  {
+    "level": 16,
+    "xp": 42,
+    "xp_diff": 5
+  },
+  {
+    "level": 17,
+    "xp": 48,
+    "xp_diff": 6
+  },
+  {
+    "level": 18,
+    "xp": 55,
+    "xp_diff": 7
+  },
+  {
+    "level": 19,
+    "xp": 62,
+    "xp_diff": 7
+  },
+  {
+    "level": 20,
+    "xp": 70,
+    "xp_diff": 8
+  },
+  {
+    "level": 21,
+    "xp": 79,
+    "xp_diff": 9
+  },
+  {
+    "level": 22,
+    "xp": 89,
+    "xp_diff": 10
+  },
+  {
+    "level": 23,
+    "xp": 101,
+    "xp_diff": 12
+  },
+  {
+    "level": 24,
+    "xp": 114,
+    "xp_diff": 13
+  },
+  {
+    "level": 25,
+    "xp": 128,
+    "xp_diff": 14
+  },
+  {
+    "level": 26,
+    "xp": 144,
+    "xp_diff": 16
+  },
+  {
+    "level": 27,
+    "xp": 162,
+    "xp_diff": 18
+  },
+  {
+    "level": 28,
+    "xp": 182,
+    "xp_diff": 20
+  },
+  {
+    "level": 29,
+    "xp": 204,
+    "xp_diff": 22
+  },
+  {
+    "level": 30,
+    "xp": 228,
+    "xp_diff": 24
+  },
+  {
+    "level": 31,
+    "xp": 255,
+    "xp_diff": 27
+  },
+  {
+    "level": 32,
+    "xp": 285,
+    "xp_diff": 30
+  },
+  {
+    "level": 33,
+    "xp": 318,
+    "xp_diff": 33
+  },
+  {
+    "level": 34,
+    "xp": 355,
+    "xp_diff": 37
+  },
+  {
+    "level": 35,
+    "xp": 396,
+    "xp_diff": 41
+  },
+  {
+    "level": 36,
+    "xp": 441,
+    "xp_diff": 45
+  },
+  {
+    "level": 37,
+    "xp": 491,
+    "xp_diff": 50
+  },
+  {
+    "level": 38,
+    "xp": 546,
+    "xp_diff": 55
+  },
+  {
+    "level": 39,
+    "xp": 607,
+    "xp_diff": 61
+  },
+  {
+    "level": 40,
+    "xp": 675,
+    "xp_diff": 68
+  },
+  {
+    "level": 41,
+    "xp": 750,
+    "xp_diff": 75
+  },
+  {
+    "level": 42,
+    "xp": 832,
+    "xp_diff": 82
+  },
+  {
+    "level": 43,
+    "xp": 923,
+    "xp_diff": 91
+  },
+  {
+    "level": 44,
+    "xp": 1023,
+    "xp_diff": 100
+  },
+  {
+    "level": 45,
+    "xp": 1134,
+    "xp_diff": 111
+  },
+  {
+    "level": 46,
+    "xp": 1256,
+    "xp_diff": 122
+  },
+  {
+    "level": 47,
+    "xp": 1391,
+    "xp_diff": 135
+  },
+  {
+    "level": 48,
+    "xp": 1539,
+    "xp_diff": 148
+  },
+  {
+    "level": 49,
+    "xp": 1702,
+    "xp_diff": 163
+  },
+  {
+    "level": 50,
+    "xp": 1882,
+    "xp_diff": 180
+  },
+  {
+    "level": 51,
+    "xp": 2080,
+    "xp_diff": 198
+  },
+  {
+    "level": 52,
+    "xp": 2298,
+    "xp_diff": 218
+  },
+  {
+    "level": 53,
+    "xp": 2537,
+    "xp_diff": 239
+  },
+  {
+    "level": 54,
+    "xp": 2800,
+    "xp_diff": 263
+  },
+  {
+    "level": 55,
+    "xp": 3089,
+    "xp_diff": 289
+  },
+  {
+    "level": 56,
+    "xp": 3407,
+    "xp_diff": 318
+  },
+  {
+    "level": 57,
+    "xp": 3756,
+    "xp_diff": 349
+  },
+  {
+    "level": 58,
+    "xp": 4140,
+    "xp_diff": 384
+  },
+  {
+    "level": 59,
+    "xp": 4561,
+    "xp_diff": 421
+  },
+  {
+    "level": 60,
+    "xp": 5023,
+    "xp_diff": 462
+  },
+  {
+    "level": 61,
+    "xp": 5530,
+    "xp_diff": 507
+  },
+  {
+    "level": 62,
+    "xp": 6087,
+    "xp_diff": 557
+  },
+  {
+    "level": 63,
+    "xp": 6698,
+    "xp_diff": 611
+  },
+  {
+    "level": 64,
+    "xp": 7368,
+    "xp_diff": 670
+  },
+  {
+    "level": 65,
+    "xp": 8102,
+    "xp_diff": 734
+  },
+  {
+    "level": 66,
+    "xp": 8907,
+    "xp_diff": 805
+  },
+  {
+    "level": 67,
+    "xp": 9789,
+    "xp_diff": 882
+  },
+  {
+    "level": 68,
+    "xp": 10755,
+    "xp_diff": 966
+  },
+  {
+    "level": 69,
+    "xp": 11814,
+    "xp_diff": 1059
+  },
+  {
+    "level": 70,
+    "xp": 12974,
+    "xp_diff": 1160
+  },
+  {
+    "level": 71,
+    "xp": 14244,
+    "xp_diff": 1270
+  },
+  {
+    "level": 72,
+    "xp": 15634,
+    "xp_diff": 1390
+  },
+  {
+    "level": 73,
+    "xp": 17156,
+    "xp_diff": 1522
+  },
+  {
+    "level": 74,
+    "xp": 18822,
+    "xp_diff": 1666
+  },
+  {
+    "level": 75,
+    "xp": 20645,
+    "xp_diff": 1823
+  },
+  {
+    "level": 76,
+    "xp": 22640,
+    "xp_diff": 1995
+  },
+  {
+    "level": 77,
+    "xp": 24822,
+    "xp_diff": 2182
+  },
+  {
+    "level": 78,
+    "xp": 27208,
+    "xp_diff": 2386
+  },
+  {
+    "level": 79,
+    "xp": 29818,
+    "xp_diff": 2610
+  },
+  {
+    "level": 80,
+    "xp": 32672,
+    "xp_diff": 2854
+  },
+  {
+    "level": 81,
+    "xp": 35792,
+    "xp_diff": 3120
+  },
+  {
+    "level": 82,
+    "xp": 39202,
+    "xp_diff": 3410
+  },
+  {
+    "level": 83,
+    "xp": 42929,
+    "xp_diff": 3727
+  },
+  {
+    "level": 84,
+    "xp": 47002,
+    "xp_diff": 4073
+  },
+  {
+    "level": 85,
+    "xp": 51452,
+    "xp_diff": 4450
+  },
+  {
+    "level": 86,
+    "xp": 56314,
+    "xp_diff": 4862
+  },
+  {
+    "level": 87,
+    "xp": 61625,
+    "xp_diff": 5311
+  },
+  {
+    "level": 88,
+    "xp": 67426,
+    "xp_diff": 5801
+  },
+  {
+    "level": 89,
+    "xp": 73761,
+    "xp_diff": 6335
+  },
+  {
+    "level": 90,
+    "xp": 80678,
+    "xp_diff": 6917
+  },
+  {
+    "level": 91,
+    "xp": 88230,
+    "xp_diff": 7552
+  },
+  {
+    "level": 92,
+    "xp": 96475,
+    "xp_diff": 8245
+  },
+  {
+    "level": 93,
+    "xp": 105475,
+    "xp_diff": 9000
+  },
+  {
+    "level": 94,
+    "xp": 115298,
+    "xp_diff": 9823
+  },
+  {
+    "level": 95,
+    "xp": 126018,
+    "xp_diff": 10720
+  },
+  {
+    "level": 96,
+    "xp": 137715,
+    "xp_diff": 11697
+  },
+  {
+    "level": 97,
+    "xp": 150478,
+    "xp_diff": 12763
+  },
+  {
+    "level": 98,
+    "xp": 164402,
+    "xp_diff": 13924
+  },
+  {
+    "level": 99,
+    "xp": 179591,
+    "xp_diff": 15189
+  },
+  {
+    "level": 100,
+    "xp": 196159,
+    "xp_diff": 16568
+  }
+]

@@ -24,9 +24,13 @@
           <input type="text" class="form-control cf" v-model="food_price_u" />
         </div>
         <div class="form-group col-md-12 mt-4">
-          <button class="col-md-12 clc" @click.prevent="get_req_info">
+          <a
+            href="#get-started"
+            class="col-md-12 clc"
+            @click.prevent="get_req_info"
+          >
             Click pour calculer les resultats finaux !
-          </button>
+          </a>
         </div>
       </form>
       <div class="results col-md-4">
@@ -97,7 +101,7 @@ export default {
 
 <style scoped>
 .get-started {
-  margin-top: 5%;
+  margin-top: 10%;
 }
 .widget-title {
   font-weight: 700;

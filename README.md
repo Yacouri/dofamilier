@@ -1,7 +1,7 @@
 # dofamilier
 <p align="center">
     <a href="https://dofamilier.netlify.app/" target="_blank">
-        <img src="../src/assets/minikrone.png" width="400">
+        <img src="./src/assets/minikrone.png">
     </a>
 </p>
 ### 📖 About dofamilier
@@ -23,6 +23,6 @@ npm run build
 ```
 
 ### 📝 Todo
+* [*] Add table of xp per level.
+* [*] Add all Dofus ressources with xp.
 * [ ] Allow users to calculate their pets levels from a specific level to another.
-* [ ] Add table of xp per level.
-* [ ] Add all Dofus ressources with xp.

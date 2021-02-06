@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <!--Navbar -->
     <nav class="mb-1 navbar navbar-expand-lg navbar-light" id="home">
       <a class="navbar-brand" href="#">dofamilier<span id="dot">.</span></a>
       <button
@@ -23,6 +22,11 @@
             <a id="n-links" class="nav-link" href="#get-started"> Commencer</a>
           </li>
           <li class="nav-item">
+            <a id="n-links" class="nav-link" href="#xp-per-level">
+              Tableau d'xp
+            </a>
+          </li>
+          <li class="nav-item">
             <a
               id="n-links"
               class="nav-link don"
@@ -35,13 +39,22 @@
         </ul>
       </div>
     </nav>
-    <!--/.Navbar -->
+    <div class="scroll-top">
+      <button id="sct" class="scroll-top-btn" @click="scrollToTop">
+        <font-awesome-icon icon="arrow-up" />
+      </button>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
   name: "nav-header",
+  methods: {
+    scrollToTop() {
+      window.scrollTo(0, 0);
+    }
+  }
 };
 </script>
 
@@ -66,15 +79,42 @@ nav {
   outline: none;
   border: none;
   border-radius: 4px;
-  box-shadow: 0 0 14px 0 #ddd;
+   box-shadow: 0 1px 1px rgba(0,0,0,0.11), 
+              0 2px 2px rgba(0,0,0,0.11), 
+              0 4px 4px rgba(0,0,0,0.11), 
+              0 6px 8px rgba(0,0,0,0.11),
+              0 8px 16px rgba(0,0,0,0.11);
 }
-#don:hover{
-	transition:0.3s;
-	color:#ee9797;
-	background-color: transparent;
-	border: 1px solid #ee9797;
+#don:hover {
+  transition: 0.3s;
+  color: #ee9797;
+  background-color: transparent;
+  border: 1px solid #ee9797;
 }
 #don {
   color: #ffffff;
+}
+.scroll-top {
+  position: fixed;
+  right: 10%;
+  bottom: 5%;
+}
+.scroll-top-btn {
+  width: 40px;
+  height: 40px;
+  background-color: #ee9797;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  border-radius: 5px;
+   box-shadow: 0 1px 1px rgba(0,0,0,0.11), 
+              0 2px 2px rgba(0,0,0,0.11), 
+              0 4px 4px rgba(0,0,0,0.11), 
+              0 6px 8px rgba(0,0,0,0.11),
+              0 8px 16px rgba(0,0,0,0.11);
+}
+.scroll-top-btn:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
 }
 </style>

@@ -1,0 +1,5322 @@
+[
+  {
+    "name": "Soie chatoyante",
+    "xp": 0,
+    "quantity": 1
+  },
+  {
+    "name": "Eau calme",
+    "xp": 0,
+    "quantity": 5
+  },
+  {
+    "name": "Sang de Scorbute",
+    "xp": 0,
+    "quantity": 1
+  },
+  {
+    "name": "Artefact Pandawushu Eau",
+    "xp": 0,
+    "quantity": 1
+  },
+  {
+    "name": "Artefact Pandawushu Terre",
+    "xp": 0,
+    "quantity": 1
+  },
+  {
+    "name": "Artefact Pandawushu Feu",
+    "xp": 0,
+    "quantity": 1
+  },
+  {
+    "name": "Artefact Pandawushu Air",
+    "xp": 0,
+    "quantity": 1
+  },
+  {
+    "name": "Protection usagée du Bworker",
+    "xp": 0,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Don Dorgan",
+    "xp": 0,
+    "quantity": 93
+  },
+  {
+    "name": "Peau de Don Duss Ang",
+    "xp": 0,
+    "quantity": 82
+  },
+  {
+    "name": "Cuir de Porsalu",
+    "xp": 0,
+    "quantity": 96
+  },
+  {
+    "name": "Pierre de Granit",
+    "xp": 0,
+    "quantity": 81
+  },
+  {
+    "name": "Plume du Timansot",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Laine de Boufmouth",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Corne de Boufmouth de guerre",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Bouftonmouth",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de Chachachovage",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Pince de Crabe Hijacob",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Plume de Gélikan",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Étoffe de Rat Bougri",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Queue d'Ecumouth",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de Smilomouth",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Age",
+    "xp": 1,
+    "quantity": 11
+  },
+  {
+    "name": "Rune Cha",
+    "xp": 1,
+    "quantity": 11
+  },
+  {
+    "name": "Rune de chasse",
+    "xp": 1,
+    "quantity": 11
+  },
+  {
+    "name": "Rune Do",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Do Air",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Do Cri",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Do Eau",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Do Feu",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Do Neutre",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Do Per Ar",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Do Per Di",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Do Per Mé",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Do Per So",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Do Pou",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Do Ren",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Do Terre",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Fo",
+    "xp": 1,
+    "quantity": 11
+  },
+  {
+    "name": "Rune Fui",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ine",
+    "xp": 1,
+    "quantity": 11
+  },
+  {
+    "name": "Rune Ini",
+    "xp": 1,
+    "quantity": 11
+  },
+  {
+    "name": "Rune Pa Age",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Rune Pa Cha",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Rune Pa Fo",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Rune Pa Ine",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Rune Pa Ini",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Rune Pa Pi Per",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Pod",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Rune Pa Prospe",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Pui",
+    "xp": 1,
+    "quantity": ""
+  },
+  {
+    "name": "Rune Pa Ré Air",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Pa Ré Cri",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Ré Eau",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Pa Ré Feu",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Pa Ré Neutre",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Pa Ré Pou",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Ré Terre",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Pa Sa",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Vi",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Rune Pi",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pi Per",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Pod",
+    "xp": 1,
+    "quantity": 11
+  },
+  {
+    "name": "Rune Prospe",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Rune Pui",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Ra Age",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ra Cha",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ra Fo",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ra Ine",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ra Ini",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ra Pod",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ra Vi",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ré Air",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Ré Cri",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Ré Eau",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Ré Feu",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Ré Neutre",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Ré Per Di",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ré Per Mé",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ré Pou",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Ré Terre",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Rune Sa",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Rune Tac",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Vi",
+    "xp": 1,
+    "quantity": 11
+  },
+  {
+    "name": "Pépite",
+    "xp": 1,
+    "quantity": 25
+  },
+  {
+    "name": "Rose des sables",
+    "xp": 1,
+    "quantity": 25
+  },
+  {
+    "name": "Palpe de Pikbul",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Gériatique",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Épine de Grath",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Morcac",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Patte de Pupuce",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Jeton du Chazino du Grand Jeu",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Corne de Berserkoffre",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Corde de Boursoin",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Langue de Mimikado",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Moustache précieuse",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Antenne de Trésantène",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Jeton du Chazino Matougarous",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Pixel de Segmantid",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Relique du Corailleur Magistral",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Boule de Boulépique",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Fennex",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Léolhyène",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Écailles d'Ouroboulos",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Scordion Bleu",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Rune de Signature",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Plume de Piou Bleu",
+    "xp": 1,
+    "quantity": 834
+  },
+  {
+    "name": "Plume de Piou Jaune",
+    "xp": 1,
+    "quantity": 834
+  },
+  {
+    "name": "Plume de Piou Rose",
+    "xp": 1,
+    "quantity": 834
+  },
+  {
+    "name": "Plume de Piou Rouge",
+    "xp": 1,
+    "quantity": 770
+  },
+  {
+    "name": "Plume de Piou Vert",
+    "xp": 1,
+    "quantity": 770
+  },
+  {
+    "name": "Plume de Piou Violet",
+    "xp": 1,
+    "quantity": 834
+  },
+  {
+    "name": "Graine de Sésame",
+    "xp": 1,
+    "quantity": "?"
+  },
+  {
+    "name": "Boue Juvénile",
+    "xp": 1,
+    "quantity": 8
+  },
+  {
+    "name": "Jaune d'Oeuf de Krokille",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Flaque Juvénile",
+    "xp": 1,
+    "quantity": 8
+  },
+  {
+    "name": "Cendres Juvéniles",
+    "xp": 1,
+    "quantity": 8
+  },
+  {
+    "name": "Poudre Juvénile",
+    "xp": 1,
+    "quantity": 8
+  },
+  {
+    "name": "Fumée Juvénile",
+    "xp": 1,
+    "quantity": 8
+  },
+  {
+    "name": "Boue Novice",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Flaque Novice",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Cendres Novices",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Poudre Novice",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Fumée Novice",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Patte de Bouledogre",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Plume de Gobvious",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Dent de Molette",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Rhinoféroce",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Serrure du Coffre des Forgerons",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Sceau Royal Contrefait",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Pièce du Trésor du Badoul",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Sac à Patates Sombre",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Pièce du Puzzle de la Griffe",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Sac à Patates Clair",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Tatouage de Mauvais Garçon",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Graine de la Discorde",
+    "xp": 1,
+    "quantity": 8
+  },
+  {
+    "name": "Chaînes Brisées",
+    "xp": 1,
+    "quantity": 6
+  },
+  {
+    "name": "Bougie du Mineur Sombre",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Bourse Suspecte",
+    "xp": 1,
+    "quantity": 13
+  },
+  {
+    "name": "Pic de Dragodinde",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Lait de Dragodinde",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Aile de Dragodinde",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Queue de Dragodinde",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Aile de Dragodinde Dorée",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Pic de Dragodinde Dorée",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Dent de Dragodinde",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Pic de Dragodinde Rousse Sauvage",
+    "xp": 1,
+    "quantity": 6
+  },
+  {
+    "name": "Sueur de dragodinde",
+    "xp": 1,
+    "quantity": 10
+  },
+  {
+    "name": "Queue de Dragodinde Rousse Sauvage",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Feuille de Kaliptus",
+    "xp": 1,
+    "quantity": 50
+  },
+  {
+    "name": "Fleur de Kaliptus",
+    "xp": 1,
+    "quantity": 50
+  },
+  {
+    "name": "Étoffe de Dok Alako",
+    "xp": 1,
+    "quantity": 5
+  },
+  {
+    "name": "Pierre Médicinale",
+    "xp": 1,
+    "quantity": 5
+  },
+  {
+    "name": "Boomerang du Dok Alako",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Drakoalak",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Crâne d'Aventurier",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Tibia de Koalak Fossoyeur",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Guerrier Koalak",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Koalak Coco",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Foulard de Koalak Farouche",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Koalak Forestier",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Koalak Griotte",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Koalak Indigo",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Koalak Reinette",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Houpette de Koalak Sanguin",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Maître Koalak",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Cubitus de Momie Koalak",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Os de Pékeualak",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Piralak",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Couche usagée de Warko Violet",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Laine du Boufcoul",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Cuir du Boufcoul",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Corne du Boufcoul",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Boomerang Abîmé de Diamantine",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Dédicace de Skeunk pour Émeraude",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Touffe de Poils de Rubise",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Épingle à Cheveux de Saphira",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil d'Arakmuté",
+    "xp": 1,
+    "quantity": 15
+  },
+  {
+    "name": "Peau Égrotante",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Intestin d'araknosé",
+    "xp": 1,
+    "quantity": 15
+  },
+  {
+    "name": "Bec du Tofu",
+    "xp": 1,
+    "quantity": 15
+  },
+  {
+    "name": "Puces Sauteuses",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Bave Empoisonnée",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Guerrier Mental",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Crocs de Rats",
+    "xp": 1,
+    "quantity": 8
+  },
+  {
+    "name": "Rondelles de Milirat Strubien",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Ramane d'Égoutant",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Peau de Rat",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Laine de Ramane Strubien",
+    "xp": 1,
+    "quantity": 9
+  },
+  {
+    "name": "Oeil de Ramane Strubien",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de Rat d'Égoutant",
+    "xp": 1,
+    "quantity": 6
+  },
+  {
+    "name": "Queue de Rat d'Hyoactif",
+    "xp": 1,
+    "quantity": 5
+  },
+  {
+    "name": "Cuir de Scélérat Strubien",
+    "xp": 1,
+    "quantity": 8
+  },
+  {
+    "name": "Crinière de Scélérat Strubien",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Bandelettes",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Bombe de Graboule",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Bourgeon de Pirolienne",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Couteau de Roukouto",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Roue de Tivelo",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Duvet de Nelween",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Oreilles de Croc Gland",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Queue de Croc Gland",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Papatte de Croc Gland",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Poils de Croc Gland",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Croquette",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Plume de Crowneille",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Moustache de Kolérat",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Poil d'Ouginak",
+    "xp": 1,
+    "quantity": 5
+  },
+  {
+    "name": "Babines de Macien",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Chaîne de l'Ouginak",
+    "xp": 1,
+    "quantity": 5
+  },
+  {
+    "name": "Pince de Scorbute",
+    "xp": 1,
+    "quantity": 5
+  },
+  {
+    "name": "Queue de scorbute",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Carapace de Scorbute",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Patte de Scorbute",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Oeil de Cocholou",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Canine de Mergranlou",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Queue du Mulou",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Griffe de Muloubard",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Poils de Mulounoké",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Os de Fantôme Léopardo",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Os de Fantôme Maho Firefoux",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Os de Fantôme Pandikaze",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Os de Fantôme Pandore",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Os de Fantôme Pandule",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Os de Fantôme Soryo Firefoux",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Os de Fantôme Tanukouï San",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Os de Fantôme Yokai Firefoux",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Poils de Léopardo",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Peau de Léopardo",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Poils de Maho Firefoux",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Peau de Maho Firefoux",
+    "xp": 1,
+    "quantity": 59
+  },
+  {
+    "name": "Peau de Soryo Firefoux",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Poils de Soryo Firefoux",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Poils de Yokai Firefoux",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Peau de Yokai Firefoux",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Peau de Kitsou Nae",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Poils de Kitsou Nae",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Kitsou Nakwa",
+    "xp": 1,
+    "quantity": 8
+  },
+  {
+    "name": "Poils de Kitsou Nakwa",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Kitsou Nere",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Poils de Kitsou Nere",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Kitsou Nufeu",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Poils de Daïgoro",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Patte d'Araknawa",
+    "xp": 1,
+    "quantity": 66
+  },
+  {
+    "name": "Oeuf d'Araknawa",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Brassard de Braconnier",
+    "xp": 1,
+    "quantity": 5
+  },
+  {
+    "name": "Peau de Cooleuvre",
+    "xp": 1,
+    "quantity": 20
+  },
+  {
+    "name": "Dent magique de Cooleuvre",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Pandore",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Peau de Pandore",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Poils de Pandikaze",
+    "xp": 1,
+    "quantity": 32
+  },
+  {
+    "name": "Peau de Pandikaze",
+    "xp": 1,
+    "quantity": 31
+  },
+  {
+    "name": "Étoffe de Pandikaze",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Griffe de Pandikaze Vertige",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Pandule",
+    "xp": 1,
+    "quantity": 20
+  },
+  {
+    "name": "Peau de Pandule",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Ambre de Bambouto",
+    "xp": 1,
+    "quantity": 24
+  },
+  {
+    "name": "Feuille de Bambouto",
+    "xp": 1,
+    "quantity": 24
+  },
+  {
+    "name": "Bois de Bambouto",
+    "xp": 1,
+    "quantity": 24
+  },
+  {
+    "name": "Racine Magique de Bambouto",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Feuille de Bambouto Sacré",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Ambre de Bambouto Sacré",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Bois de Bambouto Sacré",
+    "xp": 1,
+    "quantity": 8
+  },
+  {
+    "name": "Racine de Bulbambou",
+    "xp": 1,
+    "quantity": 33
+  },
+  {
+    "name": "Pousses de Bulbambou",
+    "xp": 1,
+    "quantity": 33
+  },
+  {
+    "name": "Écorce magique de Bulbambou",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Racine de Bulbiflore",
+    "xp": 1,
+    "quantity": 29
+  },
+  {
+    "name": "Écorce magique de Bulbiflore",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Racine de Bulbig",
+    "xp": 1,
+    "quantity": 14
+  },
+  {
+    "name": "Écorce magique de Bulbig",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Écorce magique de Bulbuisson",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Jeton du Bworker",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Bworkette",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Noix de Cajou",
+    "xp": 1,
+    "quantity": 65
+  },
+  {
+    "name": "Épaulette de Bwork",
+    "xp": 1,
+    "quantity": 22
+  },
+  {
+    "name": "Casque cassé de Bwork",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Ficelle en Lin",
+    "xp": 1,
+    "quantity": 193
+  },
+  {
+    "name": "Slip de Bwork Archer",
+    "xp": 1,
+    "quantity": 28
+  },
+  {
+    "name": "Scalp de Bwork Archer",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Poils de Barbe du Bwork Mage",
+    "xp": 1,
+    "quantity": 51
+  },
+  {
+    "name": "Livre du Bwork Mage",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Capsule Explosive",
+    "xp": 1,
+    "quantity": 35
+  },
+  {
+    "name": "Ivoire",
+    "xp": 1,
+    "quantity": 22
+  },
+  {
+    "name": "Peau de Cochon de Farle",
+    "xp": 1,
+    "quantity": 55
+  },
+  {
+    "name": "Silex",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Pierre de Crystaloboule",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Pierre du Craqueleur",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Dent en Or du Craqueleur",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Fragment de Pierre Pointue",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Coeur de Craqueleur",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Craquelope",
+    "xp": 1,
+    "quantity": 6
+  },
+  {
+    "name": "Langue de Craquelope",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Fragment de Pierre Polie",
+    "xp": 1,
+    "quantity": 13
+  },
+  {
+    "name": "Méga Pierre du Craqueleur",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Charbon",
+    "xp": 1,
+    "quantity": 10
+  },
+  {
+    "name": "Ongle de Chevaucheur de Karne",
+    "xp": 1,
+    "quantity": 95
+  },
+  {
+    "name": "Dent de Karne",
+    "xp": 1,
+    "quantity": 48
+  },
+  {
+    "name": "Noix de Pécan",
+    "xp": 1,
+    "quantity": 21
+  },
+  {
+    "name": "Oreille de Douzdoa",
+    "xp": 1,
+    "quantity": 15
+  },
+  {
+    "name": "Gant de Martoa",
+    "xp": 1,
+    "quantity": 15
+  },
+  {
+    "name": "Oeil de Pikdoa",
+    "xp": 1,
+    "quantity": 15
+  },
+  {
+    "name": "Casque de Sherpoa",
+    "xp": 1,
+    "quantity": 15
+  },
+  {
+    "name": "Gelée de Dégelée",
+    "xp": 1,
+    "quantity": 11
+  },
+  {
+    "name": "Cuir de Déminoboule",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Poil de Gamino",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Corne de Gamino",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Kraméléhon",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Peau de Mandrine",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Peau de Minoskito",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Bandelette du Mominotor",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Carapace de Scaratos",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Plume du Serpiplume",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Carniflore",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Boules de Kanniboul",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Poupée Vaudou Ark",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Poupée Vaudou Eth",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Poupée Vaudou Jav",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Poupée Vaudou Sarbak",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Poupée Vaudou Tam",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Plume de Domoizelle",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Feuille de Fourbasse",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Bourgeon de Fourbasse",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Fleur de Gloutovore",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Glouto Rhum",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Trukikol Mort",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Noix de Grokoko Traumatisée",
+    "xp": 1,
+    "quantity": 6
+  },
+  {
+    "name": "Kokopaille",
+    "xp": 1,
+    "quantity": 12
+  },
+  {
+    "name": "Noix de Kokoko",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Tronc de Kokoko",
+    "xp": 1,
+    "quantity": 6
+  },
+  {
+    "name": "Tranche de Nodkoko",
+    "xp": 1,
+    "quantity": 6
+  },
+  {
+    "name": "Feuille de Tikoko",
+    "xp": 1,
+    "quantity": 6
+  },
+  {
+    "name": "Carapace Bleue",
+    "xp": 1,
+    "quantity": 6
+  },
+  {
+    "name": "Lait de Tortue",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Carapace Jaune",
+    "xp": 1,
+    "quantity": 6
+  },
+  {
+    "name": "Carapace Rouge",
+    "xp": 1,
+    "quantity": 6
+  },
+  {
+    "name": "Carapace Verte",
+    "xp": 1,
+    "quantity": 6
+  },
+  {
+    "name": "Caleçon Mignon du Pirate",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Boulet de Canondorf",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Rhum de Qualité",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Bandeau de Nakunbra",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Canif Rouillé",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Croupion du Bitouf aérien",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Bave du Kaskargo",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Cloaque du Poolay",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Morceau de caleçon de Gourlo",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Maillot de corps de Barbroussa",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Chicot du Flib",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Foulard du Sparo",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Coccyx du Corailleur",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Corail usé",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Nacre brute",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Pince de Crustorail",
+    "xp": 1,
+    "quantity": 8
+  },
+  {
+    "name": "Corail Kouraçao",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Corail Malibout",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Corail Morito",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Corail Passaoh",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Bulbe Kouraçao",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Pétale Kouraçao",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Bulbe Malibout",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Bulbe Morito",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Bulbe Passaoh",
+    "xp": 1,
+    "quantity": 7
+  },
+  {
+    "name": "Pétale Malibout",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Pétale Morito",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Pétale Passaoh",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Aile du Bitouf des Plaines",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Fragment de cerveau poli",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Plume de fesse du Kido",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Duvet du Kilibriss",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Moustache du Mufafah",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Dent de Bourbassingue",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Bave de Ouassingue",
+    "xp": 1,
+    "quantity": 3
+  },
+  {
+    "name": "Étoffe de Ouassingue",
+    "xp": 1,
+    "quantity": 22
+  },
+  {
+    "name": "Cuir de Ouassingue",
+    "xp": 1,
+    "quantity": 10
+  },
+  {
+    "name": "Estomac de Ouassingue",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Vieille Ventouse de Kralamoure",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Enfumoir Zoth",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Étoffe Zoth",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Jouet de Gamine Zoth",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Pierre Précieuse Zoth",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Calumet Zoth",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Boulier Zoth",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Sacrum magistral",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Poil d'Abrakne",
+    "xp": 1,
+    "quantity": 12
+  },
+  {
+    "name": "Ambre",
+    "xp": 1,
+    "quantity": 30
+  },
+  {
+    "name": "Écorce d'Abrakne Sombre",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Écorce d'Abraknyde",
+    "xp": 1,
+    "quantity": 31
+  },
+  {
+    "name": "Bourgeon d'Abraknyde",
+    "xp": 1,
+    "quantity": 31
+  },
+  {
+    "name": "Racine d'Abraknyde",
+    "xp": 1,
+    "quantity": 31
+  },
+  {
+    "name": "Ambre d'Abraknyde",
+    "xp": 1,
+    "quantity": 4
+  },
+  {
+    "name": "Racine d'Abraknyde Sombre",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Bourgeon d'Abraknyde Sombre Irascible",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Racine d'Abraknyde Vénérable",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Masque Brisé d'Araknotron",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Masque Cassé d'Araknotron Irascible",
+    "xp": 1,
+    "quantity": 1
+  },
+  {
+    "name": "Bois de Tronknyde",
+    "xp": 1,
+    "quantity": 17
+  },
+  {
+    "name": "Sourcils de Tronknyde",
+    "xp": 1,
+    "quantity": 2
+  },
+  {
+    "name": "Queue du Fu Mansot",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Duvet de Mamansot",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Mansobèse",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de barbe du Shamansot",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Laine de Boufmouth légendaire",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Crabe Hijacob",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Pataugerme",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Larme de Givrefoux",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Laine de Maho Givrefoux",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Soryo Givrefoux",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Laine de Yokaï Givrefoux",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Malléole de Yomi Givrefoux",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille percée du Fricochère",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Kaniglou",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir du Sanglacier",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ra Pi Per",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ra Pui",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Tête de mort",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Kamatrix",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Slip d'Elsoummo",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Sacoche de Kartouche",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Foulard de Milimaître",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Os de Sramouraï",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Bandelette de Tromblion",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Dent de Chakaroze",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Pixel de Brikablak",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Pixel d'Éklatleth",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Pixel de Farfacette",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Pixel de Gromorso",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Relique de Gourlo le Terrible",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Carapace du Mantiscore",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Parchemin de Cactana",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Fleur de Cactiflore",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Moustaches de Cactoblongo",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Maraca de Lévito",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "String de Pampactus",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Dent de Cycloporth",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Patte de Masticroc",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Langue de Morsquale",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Trémorse",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Écaille de Grasmera",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Écaille de Grozilla",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Boue Mature",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Flaque Mature",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Cendres Matures",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Poudre Mature",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Fumée Mature",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Koalak Immature",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Boomerang du Warko Marron",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Patte de la Gardienne des Égouts",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Rat Masseur",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Rat Pine",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de Rat Brâkmarien",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Fibre de Chanvre",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Faux Visage de Choudini",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Pommeau d'Epée",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Scalp de Meulou",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe du Mulou",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Kitsou Nufeu",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Groin de Dragon Cochon",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Moon",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Moon",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Barbe du Chouque",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Rembourrage de Meupette",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Carpelle de Brouture",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Graine de l'Abrakleur sombre",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Bractée de Chiendent",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Calice de Fécorce",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Étamine de Floribonde",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Sépale de Nerbe",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Racine d'Abraknyde Ancestral",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Ambre Ancestral",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Écorce d'Abraknyde Ancestral",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Bois Envoûté",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Patte d'Abrakne Irascible",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Doigt de Branche Invocatrice",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Feuille de Branche Soignante",
+    "xp": 2,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille d'Apériglours",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Sternum de Chachachovage",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Bec de Gélikan",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Patte de Rat Bougri",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Pince du Fancrôme",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Coquille de Fantimonier",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Fantomalamère",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Mât de Fantômat",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Écaille de Harpirate",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Gobosteur",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Sapeur",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ré Pa",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ré Per Air",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ré Per Eau",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ré Per Feu",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ré Per Neutre",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ré Per Terre",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ré Pme",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ret Pa",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ret Pme",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Biscuit de chance",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Sablier miniature",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Mère Veilleuse",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Métaphorreur",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Corne de Père Phorreur",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Griffe de Phorrêveur",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Phozami",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Relique du Rasboul Majeur",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Sable Fin",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir d'Eskoglyphe",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Pince de Crabe Yoloniste",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Écaille de Gambaf",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Bave de Mol Usk",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Tentacule de Grofond",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Tentacule de N'Yalg",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Shokkoth",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Encre de Poulpée",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Lanterne de Tourthon",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Trident de Tryde",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Chaussette trouée de Dramak",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Barbe de Dragodinde",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Tresse du Koulosse",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Crowneille",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Kolérat Mort",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Collier Cassé de Macien",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Viscères de Scorbute",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Racine Magique de Bambouto Sacré",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Noeud de Marin",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Souche de l'Abrakleur clair",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Barbe inexistante du Barbroussa",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Touffe rousse du Flib",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Humérus du Sparo",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Sourcil du Rasboul majeur",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Plume du Rasboul Majeur",
+    "xp": 3,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Boulglours",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Antenne de Gloursaya",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Vigie Pirate",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Résidu de Solfataré",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Peau d'Ouilleur",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Do Air",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Do Cri",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Do Eau",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Do Feu",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Do Neutre",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Do Pou",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Do Terre",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Fui",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Pi",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Tac",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ra Sa",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Broderie de Malléfisk",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de Chacrebleu",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Collier de Chakichan",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Chargus",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Chasquatch",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Dent de Rat Blanc",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Rat Blanc",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Rat Blanc",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Rat Noir",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Cubitus de Rat Noir",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Rat Noir",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Fragment du Gorgouille",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Laine du Minotoror",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Poils du Minotoror",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Kole",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Faux menton du Bourbassingue",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe du Roissingue",
+    "xp": 4,
+    "quantity": 1
+  },
+  {
+    "name": "Pierre d'Atomystique",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Pierre de Fumrirolle",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Cri",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa So",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Rune So",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Épaulette de Bourôliste",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Chouchou de Doublure",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Piège désamorcé de Mâchassin",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Mèche de bombe de Terristocrate",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Sourcil de Barbétoal",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Corne de Kamasterik",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Dent de Lévitrof",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Morceau de clef de Paspartou",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Touffe de cheveux de Soissanth",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Relique du Tynril",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Pic de Pikténia",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Ceinture de la Dame",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Barbe du Cyclophandre",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Carapace de Krabouilleur",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Pic de Pikoleur",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Mantaze",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Patte de Li-Fo",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Moustache de Rilur",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Krokille",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Bandelette du Guerrier Koalak",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de Skeunk",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Écorce de Liroye Merline",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Bandeau troué d'Air",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Bandeau troué d'Eau",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Bandeau troué de Feu",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Bandeau troué de Terre",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Boulon de Cybwork",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Furoncle de la Mama Bwork",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Tourbe séchée de Tourbassingue",
+    "xp": 5,
+    "quantity": 1
+  },
+  {
+    "name": "Laine du Royalmouth",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Coeur de Crapeur",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Pierre de Mofette",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Incisive de Kami Givrefoux",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Écorce d'Abrazif",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Lamelle de Dramanite",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Volve de Fistulor",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Volve de Fongeur",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Lamelle de Mérulette",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Glande du Pounicheur",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Barbe de Seith",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Pagne de Trantroa",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Dent de Trezz",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Vindeux",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Venin d'Éperfide",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Pince de Lucrane",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Dard de Morfrelon",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Aile de Puceronde",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Patte de Scoliopode",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Relique du Kimbo",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Picot d'El Piko",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Avoine Magique",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Roukouto",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Tivelo",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Tanukouï San",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Tanukouï San",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Triquetrum du Maître Pandore",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de Bworkette",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe Corailleuse",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Corail Magistral",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Toile d'Abrakne Sombre",
+    "xp": 6,
+    "quantity": 1
+  },
+  {
+    "name": "Antenne de Bacterrib",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Patte de Tabacille",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Verminocule",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Coquille de Virustine",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Fleuro",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Wolvero",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Pixel de Fraktale",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de Péki",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Yokai Firefoux",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Pandore",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Calice du Tynril",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Pistil du Tynril",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Rotule du Disciple Zoth",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Écorce du Chêne Mou",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Racine du Chêne Mou",
+    "xp": 7,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir de Glouragan",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Incisive de Glourmand",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Meliglours",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir de Bouftonmouth",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Tuf de Mofette",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Griffe de Blérauve",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Molaire de Blérice",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Omoplate de Blérom",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Croleur",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Péroné du Marôdeur",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Ré Pa",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Ré Pme",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Ret Pa",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Pa Ret Pme",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Éclat Obscur",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Boue Vénérable",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Flaque Vénérable",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Cendres Vénérables",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Poudre Vénérable",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Fumée Vénérable",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Bouledogre",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Élastique de Gobvious",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Corne de Rhinoféroce",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Bave de Brokouillon",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Chevrotine",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Flèche de Crâmbo",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Os de Nemroz",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Sang de Viandargh",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Coiffe déchiquetée de Drakoalak",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Os de Mama Koalak",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Cervelle de Bouftou des Cavernes",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Testicules de Cocholou",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Mojo de Mergranlou",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Testicules Magiques de Muloubard",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Scalp de Mulounoké",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Corne de Déminoboule",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Pierre de Serpiplume",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Cagoule du Kanniboul Ebil",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Boule polie",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Tibia du Guerrier Zoth",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Braguette du Maître Zoth",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Écusson du Sergent Zoth",
+    "xp": 8,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de barbe de Barbélier",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Fronde de Boufbos",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Jambière de Kasrok",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Armure de Tanklume",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Dent de Vatenbière",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Fragment de pépite de Sakaï",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Pierre du Courtilieur",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Bois de Gobus",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Estomac du Perkü",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Plume de Dodox",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Bracée de Drosérâle",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Canine de Krakal",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Bave de Nessil",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Patte de Termystique",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Stapes de Frimar",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Sang de Karkanik",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Incisive de Stalak",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Sang de Ventrublion",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Incus de Verglasseur",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Maxillaire de Brikoglours",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Canine de Kanimate",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Bec de Mansordide",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Astragale de Mécanofoux",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Volve de Mérulor",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Cendres de Chause",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Pince de Crâme",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Fragment d'Ectorche",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Restes d'Esprigné",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Feutôme",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir de Cuirboule",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir d'Empaillé",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir de Grodruche",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Harrogant",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir de Peunch",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Cycloïde",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Plume de Granduk",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Aile de Nocturlabe",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Aile de Sinistrofu",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Griffe de Strigide",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Coeur du Capitaine Ekarlatte",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Masque de la Violence",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Masque de la Vivacité",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Masque du Vide",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Masque de la Vengeance",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Masque du Vice",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Jus de Cacterre",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Soryo Firefoux",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Lait de Porsalu",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Coco du Bitouf des Plaines",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Coeur de pierre poli",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Bec du Kido",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Crinière fleurie",
+    "xp": 9,
+    "quantity": 1
+  },
+  {
+    "name": "Plume du Mansot Royal",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Aquarakne de Crânonier",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Protection de Funespadon",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Bout d'Armure de Macrab",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Pointe de Lance de Tournoyé",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Chair de Zombruth",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Crâne magique de Magouille",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Boule en or de Piloztère",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Plume du Cavalier",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Sceau du Roi Joueur",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Pique du Soldat",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Gilet du Valet",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Plume de Brabuzar",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Dent de Bandleth",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Fragment de Chakanoubis",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Griffotep",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Grenat de Momistik",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Paupière Dorée de Rykaon",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Sang de Harpo",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Dent de Tilamproie",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Flûte de Klûtiste",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Épine de Diondin",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Épine Dorsale de Grozilla",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Place de Concert de Diamantine",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Journal Intime d'Émeraude",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Pense-bête de Rubise",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Shampooing au Kaliptus de Saphira",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Sphincter Cell",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Sphincter Cell",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Fémur de Sphincter Cell",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Langue de Hacharné",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Halbardent",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Dent de Klémort",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Grenade de Moribombe",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Vertèbre de Trépavois",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Ongle de Goulafre",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Gouligane",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Goultime",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Aile de Kérigoule",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Nez de Pipisteuse",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Trompe de Minoskito",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Bâton du Kilibriss",
+    "xp": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Clavicule de Boufmouth",
+    "xp": 11,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Chevaucheur Koalak",
+    "xp": 11,
+    "quantity": 1
+  },
+  {
+    "name": "Boomerang du Koalak Sanguin",
+    "xp": 11,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Koalak Sanguin",
+    "xp": 11,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de Ben le Ripate",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Dent de Smilomouth",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Griffe de Buboxor",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Harpille",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Serre d'Ikargn",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Corne de Méjaire",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Fémur de Koalak Farouche",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Fiole de fumée de Nelween",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Méga Pierre du Craqueleur Légendaire",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Ethmoïde du Minotot",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Corne de Mominotor",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Corne de Scaratos",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Sphénoïde du Kimbo",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Perruque du Kimbo",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Pourdre explosive de Gourlo",
+    "xp": 12,
+    "quantity": 1
+  },
+  {
+    "name": "Bec du Timansot",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Boufmouth de guerre",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Gland de l'Ecumouth",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Galet Saisonnier",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Galet bistré",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Galet cramoisi",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe du Fauchalak",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Boomerang du Maître Koalak",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Poils de Barbe du Warko Violet",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Fantôme Léopardo",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Fantôme Maho Firefoux",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Fantôme Pandikaze",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Fantôme Pandore",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Fantôme Pandule",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Fantôme Soryo Firefoux",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Fantôme Tanukouï San",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Fantôme Yokai Firefoux",
+    "xp": 13,
+    "quantity": 1
+  },
+  {
+    "name": "Défense du Phossile",
+    "xp": 14,
+    "quantity": 1
+  },
+  {
+    "name": "Carapace de Ver des Sables",
+    "xp": 14,
+    "quantity": 1
+  },
+  {
+    "name": "Queue du Boufmouth légendaire",
+    "xp": 15,
+    "quantity": 1
+  },
+  {
+    "name": "Laine de Tengu Givrefoux",
+    "xp": 15,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil du Père Ver",
+    "xp": 15,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Maho Firefoux",
+    "xp": 15,
+    "quantity": 1
+  },
+  {
+    "name": "Tresse du Poolay",
+    "xp": 15,
+    "quantity": 1
+  },
+  {
+    "name": "Aile de Mansobèse",
+    "xp": 16,
+    "quantity": 1
+  },
+  {
+    "name": "Dent de Fantômat",
+    "xp": 16,
+    "quantity": 1
+  },
+  {
+    "name": "Scorie d'Obsidiantre",
+    "xp": 16,
+    "quantity": 1
+  },
+  {
+    "name": "Couche de Daïgoro",
+    "xp": 16,
+    "quantity": 1
+  },
+  {
+    "name": "Coco du Bitouf aérien",
+    "xp": 16,
+    "quantity": 1
+  },
+  {
+    "name": "Kristalite",
+    "xp": 16,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Yomi Givrefoux",
+    "xp": 17,
+    "quantity": 1
+  },
+  {
+    "name": "Défense du Sanglacier",
+    "xp": 17,
+    "quantity": 1
+  },
+  {
+    "name": "Coeur du Mantiscore",
+    "xp": 17,
+    "quantity": 1
+  },
+  {
+    "name": "Coquille du Kaskargo",
+    "xp": 17,
+    "quantity": 1
+  },
+  {
+    "name": "Huile de Mamansot",
+    "xp": 18,
+    "quantity": 1
+  },
+  {
+    "name": "Patte de Soryo Givrefoux",
+    "xp": 18,
+    "quantity": 1
+  },
+  {
+    "name": "Moustache de Ush",
+    "xp": 18,
+    "quantity": 1
+  },
+  {
+    "name": "Coquille de Krokille",
+    "xp": 18,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de la Gardienne des Égouts",
+    "xp": 18,
+    "quantity": 1
+  },
+  {
+    "name": "Ambre d'Abraknyde Sombre Irascible",
+    "xp": 18,
+    "quantity": 1
+  },
+  {
+    "name": "Épine d'Ougah",
+    "xp": 19,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil d'Ougah",
+    "xp": 19,
+    "quantity": 1
+  },
+  {
+    "name": "Ongle du Bworker",
+    "xp": 19,
+    "quantity": 1
+  },
+  {
+    "name": "Arakne Irascible Écrasée",
+    "xp": 19,
+    "quantity": 1
+  },
+  {
+    "name": "Arête géante du Shamansot",
+    "xp": 20,
+    "quantity": 1
+  },
+  {
+    "name": "Crâne de Yokaï Givrefoux",
+    "xp": 20,
+    "quantity": 1
+  },
+  {
+    "name": "Patte de Korriandre",
+    "xp": 20,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil torve de Fricochère",
+    "xp": 20,
+    "quantity": 1
+  },
+  {
+    "name": "Écorce de Brouture",
+    "xp": 20,
+    "quantity": 1
+  },
+  {
+    "name": "Écorce de Chiendent",
+    "xp": 20,
+    "quantity": 1
+  },
+  {
+    "name": "Écorce de Fécorce",
+    "xp": 20,
+    "quantity": 1
+  },
+  {
+    "name": "Écorce de Nerbe",
+    "xp": 20,
+    "quantity": 1
+  },
+  {
+    "name": "Mandibule d'Abrakne Irascible",
+    "xp": 20,
+    "quantity": 1
+  },
+  {
+    "name": "Écorce de Floribonde",
+    "xp": 21,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille du Fu Mansot",
+    "xp": 22,
+    "quantity": 1
+  },
+  {
+    "name": "Poche de charbon de Grasmera",
+    "xp": 22,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Choudini",
+    "xp": 22,
+    "quantity": 1
+  },
+  {
+    "name": "Bwak Squelettique",
+    "xp": 22,
+    "quantity": 1
+  },
+  {
+    "name": "Talon d'achille de l'Abrakleur sombre",
+    "xp": 22,
+    "quantity": 1
+  },
+  {
+    "name": "Bourgeon d'Abraknyde Ancestral",
+    "xp": 22,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Branche Invocatrice",
+    "xp": 22,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Branche Soignante",
+    "xp": 22,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir de Maho Givrefoux",
+    "xp": 23,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Kaniglou",
+    "xp": 23,
+    "quantity": 1
+  },
+  {
+    "name": "Corne de XLII",
+    "xp": 23,
+    "quantity": 1
+  },
+  {
+    "name": "Parasite Aquatique",
+    "xp": 23,
+    "quantity": 1
+  },
+  {
+    "name": "Pierre Angulaire",
+    "xp": 24,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Trithon",
+    "xp": 24,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Glourséleste",
+    "xp": 25,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir de Fuji Givrefoux",
+    "xp": 25,
+    "quantity": 1
+  },
+  {
+    "name": "Griffe de Kolosso",
+    "xp": 25,
+    "quantity": 1
+  },
+  {
+    "name": "Poudre glaciale",
+    "xp": 25,
+    "quantity": 1
+  },
+  {
+    "name": "Fragment gelé",
+    "xp": 25,
+    "quantity": 1
+  },
+  {
+    "name": "Fausse dent de Grozilla",
+    "xp": 25,
+    "quantity": 1
+  },
+  {
+    "name": "Poils du Comte Razof",
+    "xp": 25,
+    "quantity": 1
+  },
+  {
+    "name": "Pilule de Rat Pine",
+    "xp": 25,
+    "quantity": 1
+  },
+  {
+    "name": "Corde du Fancrôme",
+    "xp": 27,
+    "quantity": 1
+  },
+  {
+    "name": "Bouée de Fantomalamère",
+    "xp": 27,
+    "quantity": 1
+  },
+  {
+    "name": "Bave de Champ à Gnons",
+    "xp": 28,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Champmane",
+    "xp": 28,
+    "quantity": 1
+  },
+  {
+    "name": "Ventouse du Kralamoure géant",
+    "xp": 28,
+    "quantity": 1
+  },
+  {
+    "name": "Huile de Fantimonier",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Sang du Toxoliath",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Slip troué de Dramak",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Pierre du Koulosse",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Testicules de Meulou",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Dents de Meulou",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Mojo du Meulou",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Testicules Magiques du Meulou",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Meulou",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Crâne du Dragon Cochon",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Sang de Dragon Cochon",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Dragolait",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Dragon Cochon",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Défense de Dragon Cochon",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de Dragon Cochon",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe Magique de Moon",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Meupette",
+    "xp": 29,
+    "quantity": 1
+  },
+  {
+    "name": "Coquille de Harpirate",
+    "xp": 31,
+    "quantity": 1
+  },
+  {
+    "name": "Cervelle de Solar",
+    "xp": 33,
+    "quantity": 1
+  },
+  {
+    "name": "Pic d'Anerice",
+    "xp": 33,
+    "quantity": 1
+  },
+  {
+    "name": "Vomer d'Apériglours",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Noyau de Protozorreur",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Sel de Baleine",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Epaulette de Dazak Martegel",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Bethel Akarna",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Patte de Gobosteur",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Borderie de Nileza",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Poil d'aisselle de Missiz Frizz",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Laine de Sylargh",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Plume d'Ilyzaelle",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Moustache de Klime",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Scapula du Comte Harebourg",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Cheveux de Tal Kasha",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Barbe de Merkator",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Broderie d'Eskoglyphe",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de Meno",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Aile de Larve de Koutoulou",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Dentier de Dantinéa",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Pointe osseuse de Grasmera",
+    "xp": 34,
+    "quantity": 1
+  },
+  {
+    "name": "Moumoute du Sapeur",
+    "xp": 35,
+    "quantity": 1
+  },
+  {
+    "name": "Bouteille de Bouchonnois",
+    "xp": 35,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Vigie Pirate",
+    "xp": 36,
+    "quantity": 1
+  },
+  {
+    "name": "Noeud de l'Abrakleur clair",
+    "xp": 36,
+    "quantity": 1
+  },
+  {
+    "name": "Peau du Rasboul Majeur",
+    "xp": 37,
+    "quantity": 1
+  },
+  {
+    "name": "Queue emplumée du Rasboul Majeur",
+    "xp": 37,
+    "quantity": 1
+  },
+  {
+    "name": "Iris de Boulglours",
+    "xp": 38,
+    "quantity": 1
+  },
+  {
+    "name": "Aile de Gloursaya",
+    "xp": 38,
+    "quantity": 1
+  },
+  {
+    "name": "Corne d'Ombre",
+    "xp": 38,
+    "quantity": 1
+  },
+  {
+    "name": "Ulna de Solfataré",
+    "xp": 39,
+    "quantity": 1
+  },
+  {
+    "name": "Radius d'Ouilleur",
+    "xp": 39,
+    "quantity": 1
+  },
+  {
+    "name": "Chope de Bière",
+    "xp": 43,
+    "quantity": 1
+  },
+  {
+    "name": "Brûlâme encapsulé",
+    "xp": 43,
+    "quantity": 1
+  },
+  {
+    "name": "Poignée du Gorgouille",
+    "xp": 43,
+    "quantity": 1
+  },
+  {
+    "name": "Symbole des Obscuranti",
+    "xp": 44,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Invo",
+    "xp": 45,
+    "quantity": 1
+  },
+  {
+    "name": "Téphra d'Atomystique",
+    "xp": 46,
+    "quantity": 1
+  },
+  {
+    "name": "Artefact de Fumrirolle",
+    "xp": 46,
+    "quantity": 1
+  },
+  {
+    "name": "Sang de Calciné",
+    "xp": 46,
+    "quantity": 1
+  },
+  {
+    "name": "Goulobule rouge",
+    "xp": 46,
+    "quantity": 1
+  },
+  {
+    "name": "Racine d'Abrazif",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Dramanite",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Fistulor",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Pédoncule de Fongeur",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Pédoncule de Mérulette",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Coquille de Submergé",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Scarabée Chrysonéfritin",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de Maître Pandore",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Maître Pandore",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Maître Pandore",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir du Minotoror",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Sabot du Minotoror",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Fémur du Minotoror",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Corne Brûlée du Minotoror",
+    "xp": 47,
+    "quantity": 1
+  },
+  {
+    "name": "Peau de Skeunk",
+    "xp": 48,
+    "quantity": 1
+  },
+  {
+    "name": "Culotte à l'envers du Roissingue",
+    "xp": 48,
+    "quantity": 1
+  },
+  {
+    "name": "Oeuf de Crapeur",
+    "xp": 50,
+    "quantity": 1
+  },
+  {
+    "name": "Broderie de la Reine des Voleurs",
+    "xp": 51,
+    "quantity": 1
+  },
+  {
+    "name": "Joyau de la couronne du roi Nidas",
+    "xp": 51,
+    "quantity": 1
+  },
+  {
+    "name": "Dé du Chaloeil",
+    "xp": 51,
+    "quantity": 1
+  },
+  {
+    "name": "Aile de Vortex",
+    "xp": 51,
+    "quantity": 1
+  },
+  {
+    "name": "Chaussette du Cyclophandre",
+    "xp": 51,
+    "quantity": 1
+  },
+  {
+    "name": "Pince de Krabouilleur",
+    "xp": 51,
+    "quantity": 1
+  },
+  {
+    "name": "Huile de Pikoleur",
+    "xp": 51,
+    "quantity": 1
+  },
+  {
+    "name": "Écorce de Champaknyde",
+    "xp": 53,
+    "quantity": 1
+  },
+  {
+    "name": "String en Cuir de la Mama Bwork",
+    "xp": 54,
+    "quantity": 1
+  },
+  {
+    "name": "Caleçon Blanc",
+    "xp": 55,
+    "quantity": 1
+  },
+  {
+    "name": "Caleçon Bleu",
+    "xp": 55,
+    "quantity": 1
+  },
+  {
+    "name": "Caleçon Rouge",
+    "xp": 55,
+    "quantity": 1
+  },
+  {
+    "name": "Caleçon Brun",
+    "xp": 55,
+    "quantity": 1
+  },
+  {
+    "name": "Queue du Royalmouth",
+    "xp": 56,
+    "quantity": 1
+  },
+  {
+    "name": "Lamelle de Champbis",
+    "xp": 56,
+    "quantity": 1
+  },
+  {
+    "name": "Langue du Champodonte",
+    "xp": 56,
+    "quantity": 1
+  },
+  {
+    "name": "Trompe de la Tromperelle",
+    "xp": 56,
+    "quantity": 1
+  },
+  {
+    "name": "Cornée de Kami Givrefoux",
+    "xp": 57,
+    "quantity": 1
+  },
+  {
+    "name": "Caleçon de Cybwork",
+    "xp": 58,
+    "quantity": 1
+  },
+  {
+    "name": "Étoile d'Or d'El Piko",
+    "xp": 60,
+    "quantity": 1
+  },
+  {
+    "name": "Testicules du Tanukouï San",
+    "xp": 60,
+    "quantity": 1
+  },
+  {
+    "name": "Galet Lunaire",
+    "xp": 63,
+    "quantity": 1
+  },
+  {
+    "name": "Culotte de Harrogant",
+    "xp": 68,
+    "quantity": 1
+  },
+  {
+    "name": "Manubrium de Wolvero",
+    "xp": 69,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Fleuro",
+    "xp": 75,
+    "quantity": 1
+  },
+  {
+    "name": "Laine de Glouragan",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Glourmand",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Calcanéus de Meliglours",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Poil de Blérauve",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Blérice",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Blérom",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Croleur",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Queue Magique du Péki",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Péki",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Ambre du Tynril",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Peau lacérée du Tynril",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Écorce du Tynril",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Ambre du Chêne Mou",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Bourgeon du Chêne Mou",
+    "xp": 76,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Marôdeur",
+    "xp": 78,
+    "quantity": 1
+  },
+  {
+    "name": "Croc de Krokille",
+    "xp": 78,
+    "quantity": 1
+  },
+  {
+    "name": "Delko du Perkü",
+    "xp": 88,
+    "quantity": 1
+  },
+  {
+    "name": "Oeuf du Mansot Royal",
+    "xp": 90,
+    "quantity": 1
+  },
+  {
+    "name": "Oeuf de Gobus",
+    "xp": 91,
+    "quantity": 1
+  },
+  {
+    "name": "Bec de Dodox",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Sépale de Drosérâle",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Crinière de Krakal",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Molaire de Nessil",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Carapace de Termystique",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Moustache de Frimar",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Malleus de Karkanik",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Ethmoïde de Stalak",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Molaire de Ventrublion",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Cervelle de Verglasseur",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Brikoglours",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Griffe de Kanimate",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Sternum de Mansordide",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Oreille de Mécanofoux",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Pédoncule de Mérulor",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Dent de Cuirboule",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Coeur d'Empaillé",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Grodruche",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Cervelle de Peunch",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Plume de Cycloïde",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Bec de Granduk",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Pic du Nocturlabe",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Queue de Sinistrofu",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Bec de Strigide",
+    "xp": 92,
+    "quantity": 1
+  },
+  {
+    "name": "Bézoard Ardent de Grozilla",
+    "xp": 96,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Sphincter Cell",
+    "xp": 96,
+    "quantity": 1
+  },
+  {
+    "name": "Scapula de Ben le Ripate",
+    "xp": 116,
+    "quantity": 1
+  },
+  {
+    "name": "Sabot du Minotot",
+    "xp": 120,
+    "quantity": 1
+  },
+  {
+    "name": "Corne du Minotot",
+    "xp": 120,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir du Minotot",
+    "xp": 120,
+    "quantity": 1
+  },
+  {
+    "name": "Laine du Minotot",
+    "xp": 120,
+    "quantity": 1
+  },
+  {
+    "name": "Fémur du Minotot",
+    "xp": 120,
+    "quantity": 1
+  },
+  {
+    "name": "Chaussette du Kimbo",
+    "xp": 120,
+    "quantity": 1
+  },
+  {
+    "name": "Pierre précieuse du Kimbo",
+    "xp": 120,
+    "quantity": 1
+  },
+  {
+    "name": "Galet rutilant",
+    "xp": 125,
+    "quantity": 1
+  },
+  {
+    "name": "Galet boucané",
+    "xp": 125,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Po",
+    "xp": 130,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir de Tengu Givrefoux",
+    "xp": 153,
+    "quantity": 1
+  },
+  {
+    "name": "Vertèbre d'Obsidiantre",
+    "xp": 161,
+    "quantity": 1
+  },
+  {
+    "name": "Fragment d'Ougalurette",
+    "xp": 195,
+    "quantity": 1
+  },
+  {
+    "name": "Peau du Bworker",
+    "xp": 195,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de Korriandre",
+    "xp": 196,
+    "quantity": 1
+  },
+  {
+    "name": "Fermeture éclair",
+    "xp": 200,
+    "quantity": 1
+  },
+  {
+    "name": "Mycoses gelées",
+    "xp": 200,
+    "quantity": 1
+  },
+  {
+    "name": "Oeil de verre",
+    "xp": 200,
+    "quantity": 1
+  },
+  {
+    "name": "Racine cristalline",
+    "xp": 200,
+    "quantity": 1
+  },
+  {
+    "name": "Boulon neuf",
+    "xp": 200,
+    "quantity": 1
+  },
+  {
+    "name": "Hamatum de Glourséleste",
+    "xp": 254,
+    "quantity": 1
+  },
+  {
+    "name": "Condyle de Fuji Givrefoux",
+    "xp": 254,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe de Kolosso",
+    "xp": 254,
+    "quantity": 1
+  },
+  {
+    "name": "Étoffe givrée",
+    "xp": 254,
+    "quantity": 1
+  },
+  {
+    "name": "Eclat temporel",
+    "xp": 254,
+    "quantity": 1
+  },
+  {
+    "name": "Encre du Kralamoure géant",
+    "xp": 281,
+    "quantity": 1
+  },
+  {
+    "name": "Cuir Onique",
+    "xp": 300,
+    "quantity": 1
+  },
+  {
+    "name": "Galet Solaire",
+    "xp": 313,
+    "quantity": 1
+  },
+  {
+    "name": "Braguette de Nileza",
+    "xp": 338,
+    "quantity": 1
+  },
+  {
+    "name": "Culotte de Missiz Frizz",
+    "xp": 338,
+    "quantity": 1
+  },
+  {
+    "name": "Incisive de Sylargh",
+    "xp": 338,
+    "quantity": 1
+  },
+  {
+    "name": "Scalp de Klime",
+    "xp": 338,
+    "quantity": 1
+  },
+  {
+    "name": "Bandelette du Comte Harebourg",
+    "xp": 338,
+    "quantity": 1
+  },
+  {
+    "name": "Coeur de Merkator",
+    "xp": 338,
+    "quantity": 1
+  },
+  {
+    "name": "Poche de magma de Grasmera",
+    "xp": 338,
+    "quantity": 1
+  },
+  {
+    "name": "Coeur Gelé",
+    "xp": 375,
+    "quantity": 1
+  },
+  {
+    "name": "Alliage Ivre",
+    "xp": 375,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ga Pme",
+    "xp": 405,
+    "quantity": 1
+  },
+  {
+    "name": "Rune Ga Pa",
+    "xp": 500,
+    "quantity": 1
+  },
+  {
+    "name": "Galet brasillant",
+    "xp": 1250,
+    "quantity": 1
+  },
+  {
+    "name": "Galet acajou",
+    "xp": 1250,
+    "quantity": 1
+  }
+]

@@ -4,11 +4,11 @@
       <div class="col-md-8 title">
         <h1 id="clicks">5 Clicks</h1>
         <br />
-        <p id="caption">
+        <p id="caption" class="mb-5">
           Pour calculer l'xp requis pour maximiser<br />
           le niveau de votre familier.
         </p>
-        <button class="get-started">commencer maintenant</button>
+        <a href="#get-started" class="get-started">commencer maintenant</a>
       </div>
       <div class="col-md-4 familiers">
         <img

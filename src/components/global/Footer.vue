@@ -8,13 +8,16 @@
               >dofamilier<span id="dot">.</span></a
             >
           </div>
-          <div class="col-md-3 mt-5">
+          <div class="col-md-2 mt-5">
             <a class="navbar-brand links" href="#home">Accueil</a>
           </div>
-          <div class="col-md-3 mt-5">
+          <div class="col-md-2 mt-5">
             <a class="navbar-brand links" href="#get-started">Commencer</a>
           </div>
-          <div class="col-md-3 mt-5">
+          <div class="col-md-2 mt-5">
+            <a class="navbar-brand links" href="#xp-per-level">Tableau d'xp</a>
+          </div>
+          <div class="col-md-2 mt-5">
             <a
               class="navbar-brand links"
               href="https://www.buymeacoffee.com/yacouri"
@@ -26,7 +29,7 @@
       </div>
     </footer>
     <div class="heart">
-        Made with ❤️ by <a class="twitter" href="https://www.twitter.com/zyacouri" target="blank">Yacouri</a>.
+      Made with ❤️ by <a class="twitter" href="https://www.twitter.com/zyacouri" target="blank">Yacouri</a>.
     </div>
   </div>
 </template>
