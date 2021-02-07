@@ -23,6 +23,6 @@ npm run build
 ```
 
 ### 📝 Todo
-* [*] Add table of xp per level.
-* [*] Add all Dofus ressources with xp.
-* [ ] Allow users to calculate their pets levels from a specific level to another.
+* ✅ Add table of xp per level.
+* ✅ Add all Dofus ressources with xp.
+* ❌ Allow users to calculate their pets levels from a specific level to another.
